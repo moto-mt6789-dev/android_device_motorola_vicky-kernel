@@ -153,3 +153,8 @@ mtk-mbox-mailbox.ko
 irq-dbg.ko
 mtk-socinfo.ko
 camera_ldo.ko
+goodix_brl_mmi.ko
+mmi_info.ko
+mmi_relay.ko
+sensors_class.ko
+touchscreen_u_mmi.ko
